@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Zachary Djerdjouri a.k.a. @Zachdj27
+- 👀 I’m interested in web development and game development
+- 🌱 I’m currently learning computer science and mathematics at the university of Ottawa
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me email: zdjer050@uottawa.ca 
