@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Zachary Djerdjouri a.k.a. @Zachdj27
-- 👀 I’m interested in web development and data science
+- 👀 I’m interested in web development, backend development and data science
 - 🌱 I’m currently learning computer science and mathematics at the university of Ottawa
 - 📫 How to reach me email: zdjer050@uottawa.ca 
